@@ -1,6 +1,4 @@
-Course Structure
-
-
+# Course Structure
 
 C:\Users\user\Downloads\Angular - The Complete Guide (2021 Edition)-Udemy>tree /A /F
 
@@ -8,11 +6,7 @@ Folder PATH listing
 
 Volume serial number is D428-9385
 
-C:.
-
-|   udemy-angular-the-complete-guide-2021-edition.torrent
-
-|
+C://udemy-angular-the-complete-guide-2021-edition.torrent
 
 ## 1. Getting Started
 
