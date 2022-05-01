@@ -14,7 +14,7 @@ C:.
 
 |
 
-##1. Getting Started
+## 1. Getting Started
 
 |       1. Course Introduction.mp4
 
@@ -54,7 +54,7 @@ C:.
 
 |
 
-##10. Course Project - Services & Dependency Injection
+## 10. Course Project - Services & Dependency Injection
 
 |       1. Introduction.mp4
 
@@ -80,7 +80,7 @@ C:.
 
 |
 
-##11. Changing Pages with Routing
+## 11. Changing Pages with Routing
 
 |       1. Module Introduction.mp4
 
@@ -152,7 +152,7 @@ C:.
 
 |
 
-##12. Course Project - Routing
+## 12. Course Project - Routing
 
 |       1. Planning the General Structure.mp4
 
@@ -188,7 +188,7 @@ C:.
 
 |
 
-##13. Understanding Observables
+## 13. Understanding Observables
 
 |       1. Module Introduction.mp4
 
@@ -238,7 +238,7 @@ C:.
 
 |
 
-##14. Course Project - Observables
+## 14. Course Project - Observables
 
 |       1. Improving the Reactive Service with Observables (Subjects).mp4
 
@@ -254,7 +254,7 @@ C:.
 
 |
 
-##15. Handling Forms in Angular Apps
+## 15. Handling Forms in Angular Apps
 
 |       1. Module Introduction.mp4
 
@@ -342,7 +342,7 @@ C:.
 
 |
 
-##16. Course Project - Forms
+## 16. Course Project - Forms
 
 |       1. Introduction.mp4
 
@@ -396,7 +396,7 @@ C:.
 
 |
 
-##17. Using Pipes to Transform Output
+## 17. Using Pipes to Transform Output
 
 |       1. Introduction & Why Pipes are Useful.mp4
 
@@ -426,7 +426,7 @@ C:.
 
 |
 
-##18. Making Http Requests
+## 18. Making Http Requests
 
 |       1. A New IDE.mp4
 
@@ -554,7 +554,7 @@ C:.
 
 |
 
-##19. Course Project - Http
+## 19. Course Project - Http
 
 |       1. Module Introduction.mp4
 
@@ -578,7 +578,7 @@ C:.
 
 |
 
-##2. The Basics
+## 2. The Basics
 
 |       1. Module Introduction.mp4
 
@@ -674,7 +674,7 @@ C:.
 
 |
 
-##20. Authentication & Route Protection in Angular
+## 20. Authentication & Route Protection in Angular
 
 |       1. Module Introduction.mp4
 
@@ -772,7 +772,7 @@ C:.
 
 |
 
-##21. Dynamic Components
+## 21. Dynamic Components
 
 |       1. Module Introduction.mp4
 
@@ -798,7 +798,7 @@ C:.
 
 |
 
-##22. Angular Modules & Optimizing Angular Apps
+## 22. Angular Modules & Optimizing Angular Apps
 
 |       1. Module Introduction.mp4
 
@@ -872,7 +872,7 @@ C:.
 
 |
 
-##23. Deploying an Angular App
+## 23. Deploying an Angular App
 
 |       1. Module Introduction.mp4
 
@@ -890,7 +890,7 @@ C:.
 
 |
 
-##24. Bonus Working with NgRx in our Project
+## 24. Bonus Working with NgRx in our Project
 
 |       1. Module Introduction.mp4
 
@@ -1058,7 +1058,7 @@ C:.
 
 |
 
-##25. Bonus Angular Universal
+## 25. Bonus Angular Universal
 
 |       1. Module Introduction.mp4
 
@@ -1098,7 +1098,7 @@ C:.
 
 |
 
-##26. Angular Animations
+## 26. Angular Animations
 
 |       1. Making Animations Work with Angular 4+.html
 
@@ -1130,7 +1130,7 @@ C:.
 
 |
 
-##27. Adding Offline Capabilities with Service Workers
+## 27. Adding Offline Capabilities with Service Workers
 
 |       1. Module Introduction.mp4
 
@@ -1150,7 +1150,7 @@ C:.
 
 |
 
-##28. A Basic Introduction to Unit Testing in Angular Apps
+## 28. A Basic Introduction to Unit Testing in Angular Apps
 
 |       1. About this Section.html
 
@@ -1178,7 +1178,7 @@ C:.
 
 |
 
-##29. Angular as a Platform & Closer Look at the CLI
+## 29. Angular as a Platform & Closer Look at the CLI
 
 |       1. Module Introduction.mp4
 
@@ -1214,7 +1214,7 @@ C:.
 
 |
 
-##3. Course Project - The Basics
+## 3. Course Project - The Basics
 
 |       1. Project Introduction.mp4
 
@@ -1256,7 +1256,7 @@ C:.
 
 |
 
-##30. Angular Changes & New Features
+## 30. Angular Changes & New Features
 
 |       1. A First Look At Angular Elements.mp4
 
@@ -1264,7 +1264,7 @@ C:.
 
 |
 
-##31. Course Roundup
+## 31. Course Roundup
 
 |       1. Course Roundup.mp4
 
@@ -1272,7 +1272,7 @@ C:.
 
 |
 
-##32. Bonus TypeScript Introduction (for Angular 2 Usage)
+## 32. Bonus TypeScript Introduction (for Angular 2 Usage)
 
 |       1. Introduction.mp4
 
@@ -1298,7 +1298,7 @@ C:.
 
 |
 
-##4. Debugging
+## 4. Debugging
 
 |       1. Understanding Angular Error Messages.mp4
 
@@ -1312,7 +1312,7 @@ C:.
 
 |
 
-##5. Components & Databinding Deep Dive
+## 5. Components & Databinding Deep Dive
 
 |       1. Module Introduction.mp4
 
@@ -1368,7 +1368,7 @@ C:.
 
 |
 
-##6. Course Project - Components & Databinding
+## 6. Course Project - Components & Databinding
 
 |       1. Introduction.mp4
 
@@ -1388,7 +1388,7 @@ C:.
 
 |
 
-##7. Directives Deep Dive
+## 7. Directives Deep Dive
 
 |       1. Module Introduction.mp4
 
@@ -1422,7 +1422,7 @@ C:.
 
 |
 
-##8. Course Project - Directives
+## 8. Course Project - Directives
 
 |       1. Building and Using a Dropdown Directive.mp4
 
